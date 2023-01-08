@@ -1,0 +1,26 @@
+section {
+  padding-top: 4rem;
+}
+
+.jumbotron {
+  background-color: #264653;
+  color: #fff;
+  padding-top: 5rem;
+}
+
+.jumbotron .mt-n1 {
+  margin-top: -3rem !important;
+}
+
+.jumbotron span {
+  color: #e9c46a;
+}
+
+#datadiri {
+  background-color: #264653;
+  color: #fff;
+}
+
+.datadiri h3 {
+  color: #e9c46a;
+}
